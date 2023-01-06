@@ -22,11 +22,12 @@
 
 🏀 About Me: 
 
-I am an ambitious Web Developer from the US
+I am a Front End Web Developer from the US
 
 - 👨‍💻 I am open for front-end web developer positions.
 - 🔬 Using The Odin Project as my guide to learn front-end and back-end programming through projects.
 - 🏃‍♂️ Volunteering at Hack For LA to gain experience and learn from other developers.
+- 🖥 Created my own web development business @ [dandevelopsweb.netlify.app](https://dandevelopsweb.netlify.app/)
 
 
 ---
