@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **improving my portfolio**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://dandevelopsweb.netlify.app/](https://dandevelopsweb.netlify.app/)
 
