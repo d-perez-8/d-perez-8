@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://dandevelopsweb.netlify.app/](https://dandevelopsweb.netlify.app/)
+- 👨‍💻 All of my projects are available at [danielperez.dev](https://danielperez.dev/)
 
 - 📫 How to reach me **dandevelopsweb@gmail.com**
 
